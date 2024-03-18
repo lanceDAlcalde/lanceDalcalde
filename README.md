@@ -2,7 +2,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h7 align="center">Hi 👋, I'm Lance Kerwin Alcalde</h7>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="![image](https://github.com/lanceDAlcalde/lanceDalcalde/assets/154803815/50de3c41-c600-4b74-8a89-c50e7b13f7f9)" alt="lancedalcalde" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
