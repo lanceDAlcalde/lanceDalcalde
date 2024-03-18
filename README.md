@@ -1,6 +1,6 @@
 # hi! there 👋
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
-<h7 align="center">Hi 👋, I'm Lance Kerwin Alcalde</h7>
+<h1 align="center">Hi 👋, I'm Lance Kerwin Alcalde</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
